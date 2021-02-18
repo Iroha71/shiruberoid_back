@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  desc: MyString
+  notify_at: 2021-02-08 23:01:52
+  task_num: 
+  finished_task_num: 
+  finished_at: 2021-02-08
+  user: one
+  category: one
+
+two:
+  title: MyString
+  desc: MyString
+  notify_at: 2021-02-08 23:01:52
+  task_num: 
+  finished_task_num: 
+  finished_at: 2021-02-08
+  user: two
+  category: two
